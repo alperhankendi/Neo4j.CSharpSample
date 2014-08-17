@@ -2,3 +2,8 @@ C:\Development\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\bin\Debug\Neo4j.CSha
 C:\Development\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\bin\Debug\Neo4j.CSharpSample.Domain.pdb
 C:\Development\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\obj\Debug\Neo4j.CSharpSample.Domain.dll
 C:\Development\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\obj\Debug\Neo4j.CSharpSample.Domain.pdb
+C:\Users\AHANKENDI\Documents\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\bin\Debug\Neo4j.CSharpSample.Domain.dll
+C:\Users\AHANKENDI\Documents\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\bin\Debug\Neo4j.CSharpSample.Domain.pdb
+C:\Users\AHANKENDI\Documents\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\obj\Debug\Neo4j.CSharpSample.Domain.csprojResolveAssemblyReference.cache
+C:\Users\AHANKENDI\Documents\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\obj\Debug\Neo4j.CSharpSample.Domain.dll
+C:\Users\AHANKENDI\Documents\Neo4j.CSharpSample\Neo4j.CSharpSample.Domain\obj\Debug\Neo4j.CSharpSample.Domain.pdb
